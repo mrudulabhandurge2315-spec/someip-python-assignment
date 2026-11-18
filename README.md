@@ -77,7 +77,7 @@ Vehicle speed is represented using an unsigned 16-bit integer (Uint16), measured
 4. Instrument Cluster receives the notifications.
 
 ## 5. Project Structure
-
+```bash
 someip-python-assignment/
 ├── src/
 │   ├── vehicle_speed_interface.py
@@ -90,7 +90,7 @@ someip-python-assignment/
 ├── images/
 ├── README.md
 └── .gitignore
-
+```
 ## 6. Technologies Used
 
 - Python 3
