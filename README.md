@@ -204,6 +204,7 @@ The Instrument Cluster successfully received changing vehicle speed values:
 ```text
 [CLUSTER] SpeedChanged event received: 40 km/h
 [CLUSTER] SpeedChanged event received: 45 km/h
+```
 ## 10. Limitations
 
 - Both ECUs are simulated on one computer.
@@ -224,7 +225,8 @@ The Instrument Cluster successfully received changing vehicle speed values:
 - Understanding SOME/IP service-oriented architecture.
 - Implementing service discovery.
 - Understanding request-response communication.
-- Implementing event-based communication.
+- Implementing event-based communication. 
 - Developing Python-based ECU simulations.
 - Learning automotive network debugging.
 
+  
